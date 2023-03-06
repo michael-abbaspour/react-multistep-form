@@ -1,0 +1,9 @@
+/**
+The base styles.
+ */
+
+body {
+	display: grid;
+	place-content: center;
+	min-height: 100svh;
+}
